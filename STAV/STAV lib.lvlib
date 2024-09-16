@@ -76,4 +76,5 @@
 	<Item Name="Params string to array.vi" Type="VI" URL="../Params string to array.vi"/>
 	<Item Name="Param Decode.vi" Type="VI" URL="../Param Decode.vi"/>
 	<Item Name="Param Decode KF.vi" Type="VI" URL="../Param Decode KF.vi"/>
+	<Item Name="STAV Write_read.vi" Type="VI" URL="../STAV Write_read.vi"/>
 </Library>
